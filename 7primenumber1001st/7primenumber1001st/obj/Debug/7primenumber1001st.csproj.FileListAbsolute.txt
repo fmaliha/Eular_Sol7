@@ -1,0 +1,6 @@
+c:\users\anika\documents\visual studio 2013\Projects\7primenumber1001st\7primenumber1001st\bin\Debug\7primenumber1001st.exe.config
+c:\users\anika\documents\visual studio 2013\Projects\7primenumber1001st\7primenumber1001st\bin\Debug\7primenumber1001st.exe
+c:\users\anika\documents\visual studio 2013\Projects\7primenumber1001st\7primenumber1001st\bin\Debug\7primenumber1001st.pdb
+c:\users\anika\documents\visual studio 2013\Projects\7primenumber1001st\7primenumber1001st\obj\Debug\7primenumber1001st.csprojResolveAssemblyReference.cache
+c:\users\anika\documents\visual studio 2013\Projects\7primenumber1001st\7primenumber1001st\obj\Debug\7primenumber1001st.exe
+c:\users\anika\documents\visual studio 2013\Projects\7primenumber1001st\7primenumber1001st\obj\Debug\7primenumber1001st.pdb
