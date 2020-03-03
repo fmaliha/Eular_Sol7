@@ -1,2 +1,2 @@
 # 104743
-The array should start from 1 get the currect position of the Prime!
+The array should start from 1 to get the correct position of the Prime!
