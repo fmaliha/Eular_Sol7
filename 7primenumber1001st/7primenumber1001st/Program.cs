@@ -82,7 +82,12 @@ namespace _7primenumber1001st
             {
                 if(k[f] != 0)
                 {
-                     Console.WriteLine("The {0} th prime is {1}",f,k[f]);
+                    // Console.WriteLine("The {0} th prime is {1}",f,k[f]);
+                    
+                     if (f == 10001)
+                    {
+                        Console.WriteLine("The {0} th prime is {1}", f, k[f]); 
+                    }
                 }
 
                 //if (f == 10001)
